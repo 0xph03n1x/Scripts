@@ -1,3 +1,3 @@
-# Bash
+# Shells cripts
 
-Shellscripts to make life easier of my personal collection.
+To make life easier.
